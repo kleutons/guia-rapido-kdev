@@ -52,12 +52,29 @@ TAG´s são como etiquetas. Elas representam os trechos de código que auxiliam 
 ## Principais TAG's HTML (clique na seta para abri)
 
 
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
+
 <details>
 <summary>Títulos - h1 até o h6</summary>
 
 - Em HTML, os títulos são categorizados de h1 a h6. O h1 representa o título de maior relevância na página, enquanto o h6 é atribuído aos títulos de menor importância.
 
-<pre>
 <code>
 <h1> Seu título H1 </h1>
 <h2> Seu título H2 </h2>
@@ -66,8 +83,6 @@ TAG´s são como etiquetas. Elas representam os trechos de código que auxiliam 
 <h5> Seu título H5 </h5>
 <h6> Seu título H6 </h6>
 </code>
-</pre>
-
 
 </details>
 
@@ -81,11 +96,9 @@ TAG´s são como etiquetas. Elas representam os trechos de código que auxiliam 
 <details>
 <summary>Negrito - &lt;b&gt; &lt;/b&gt; </summary>
 
-<pre>
 <code>
 <p> Seu texto em <b>negrito</b> ou <strong>Negrito<strong> </p>
 </code>
-</pre>
 
 </details>
 
@@ -93,10 +106,8 @@ TAG´s são como etiquetas. Elas representam os trechos de código que auxiliam 
 <details>
 <summary>Itálico  - &lt;i&gt; &lt;/i&gt; </summary>
 
-<pre>
 <code>
 <p> Esse é o meu <i>texto em itálico</i> </p>
 <code>
-</pre>
 
 </details>
