@@ -35,6 +35,7 @@ TAG´s são como etiquetas. Elas representam os trechos de código que auxiliam 
 `<body> </body>`  -> Aqui vai toda a parte vísivel do nosso site
 
 > Na prática, essa é a estrutura basica de um site HTML
+
 ```html
 <html> 
 	<head> 
@@ -81,6 +82,16 @@ TAG´s são como etiquetas. Elas representam os trechos de código que auxiliam 
 
 ```html
 <p> Seu texto em <b>negrito</b> ou <strong>Negrito<strong> </p>
+```
+
+</details>
+
+
+<details>
+<summary>Itálico  - `<i></i>` </summary>
+
+```html
+<p> Esse é o meu <i>texto em itálico</i> </p>
 ```
 
 </details>
