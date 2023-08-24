@@ -38,14 +38,14 @@ TAG´s são como etiquetas. Elas representam os trechos de código que auxiliam 
 
 ```html
 <html> 
-	<head> 
-		<title> Título do Meu site </title>
-  </head>
-	<body>
-		<h1> Meu primeiro Site! </h1>
+<head> 
+	<title> Título do Meu site </title>
+</head>
+<body>
+	<h1> Meu primeiro Site! </h1>
 
-		<p> Serei um Programador(a) de Sucesso! </p>
-  </body>
+	<p> Serei um Programador(a) de Sucesso! </p>
+</body>
 </html>
 ```
 
@@ -55,43 +55,48 @@ TAG´s são como etiquetas. Elas representam os trechos de código que auxiliam 
 <details>
 <summary>Títulos - h1 até o h6</summary>
 
-> Em HTML, os títulos são categorizados de h1 a h6. O h1 representa o título de maior relevância na página, enquanto o h6 é atribuído aos títulos de menor importância.
+- Em HTML, os títulos são categorizados de h1 a h6. O h1 representa o título de maior relevância na página, enquanto o h6 é atribuído aos títulos de menor importância.
 
-```html
+<pre>
+<code>
 <h1> Seu título H1 </h1>
 <h2> Seu título H2 </h2>
 <h3> Seu título H3 </h3>
 <h4> Seu título H4 </h4>
 <h5> Seu título H5 </h5>
 <h6> Seu título H6 </h6>
-```
+</code>
+</pre>
+
 
 </details>
 
 <details>
-<summary>Paragrafo - `<p></p>` </summary>
-
-```html
+<summary>Paragrafo - &lt;p&gt; &lt;/p&gt; </summary>
+<code>
 <p>Meu parágrafo, texto que você desejar...</p>
-```
-
+</code>
 </details>
 
 <details>
-<summary>Negrito - `<b></b>` </summary>
+<summary>Negrito - &lt;b&gt; &lt;/b&gt; </summary>
 
-```html
+<pre>
+<code>
 <p> Seu texto em <b>negrito</b> ou <strong>Negrito<strong> </p>
-```
+</code>
+</pre>
 
 </details>
 
 
 <details>
-<summary>Itálico  - `<i></i>` </summary>
+<summary>Itálico  - &lt;i&gt; &lt;/i&gt; </summary>
 
-```html
+<pre>
+<code>
 <p> Esse é o meu <i>texto em itálico</i> </p>
-```
+<code>
+</pre>
 
 </details>
