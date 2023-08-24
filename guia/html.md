@@ -1,4 +1,4 @@
-| [🏠 Voltar p/ Inicio](../) | [🏗️ HTML](./html) | [💈 CSS](./css) | [👨🏻‍💻 JAVAScript](./js) |
+| [🏠 Voltar p/ Inicio](../) | [🏗️ HTML](./html.md) | [💈 CSS](./css.md) | [👨🏻‍💻 JAVAScript](./js.md) |
 
 
 # Introdução ao HTML
@@ -51,54 +51,36 @@ TAG´s são como etiquetas. Elas representam os trechos de código que auxiliam 
 
 ## Principais TAG's HTML (clique na seta para abri)
 
-
-
-<details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
-
-
 <details>
 <summary>Títulos - h1 até o h6</summary>
 
-- Em HTML, os títulos são categorizados de h1 a h6. O h1 representa o título de maior relevância na página, enquanto o h6 é atribuído aos títulos de menor importância.
+> Em HTML, os títulos são categorizados de h1 a h6. O h1 representa o título de maior relevância na página, enquanto o h6 é atribuído aos títulos de menor importância.
 
-<code>
+```
 <h1> Seu título H1 </h1>
 <h2> Seu título H2 </h2>
 <h3> Seu título H3 </h3>
 <h4> Seu título H4 </h4>
 <h5> Seu título H5 </h5>
 <h6> Seu título H6 </h6>
-</code>
+```
 
 </details>
 
 <details>
 <summary>Paragrafo - &lt;p&gt; &lt;/p&gt; </summary>
-<code>
+
+```html
 <p>Meu parágrafo, texto que você desejar...</p>
-</code>
+```
 </details>
 
 <details>
 <summary>Negrito - &lt;b&gt; &lt;/b&gt; </summary>
 
-<code>
+```html
 <p> Seu texto em <b>negrito</b> ou <strong>Negrito<strong> </p>
-</code>
+```
 
 </details>
 
@@ -106,8 +88,8 @@ You can add an image or a code block, too.
 <details>
 <summary>Itálico  - &lt;i&gt; &lt;/i&gt; </summary>
 
-<code>
+```
 <p> Esse é o meu <i>texto em itálico</i> </p>
-<code>
+```
 
 </details>

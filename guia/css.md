@@ -1,3 +1,3 @@
-| [🏠 Voltar p/ Inicio](../) | [🏗️ HTML](./html) | [💈 CSS](./css) | [👨🏻‍💻 JAVAScript](./js) |
+| [🏠 Voltar p/ Inicio](../) | [🏗️ HTML](./html.md) | [💈 CSS](./css.md) | [👨🏻‍💻 JAVAScript](./js.md) |
 
 # Guia CSS
