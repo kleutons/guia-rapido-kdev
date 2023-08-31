@@ -59,12 +59,12 @@ Em HTML, os títulos são categorizados de h1 a h6. O h1 representa o título de
 
 <pre>
 	<code>
-		&lt;h1&gt; Seu título H1 &lt;/h1&gt;
-		&lt;h2&gt; Seu título H2 &lt;/h2&gt;
-		&lt;h3&gt; Seu título H3 &lt;/h3&gt;
-		&lt;h4&gt; Seu título H4 &lt;/h4&gt;
-		&lt;h5&gt; Seu título H5 &lt;/h5&gt;
-		&lt;h6&gt; Seu título H6 &lt;/h6&gt;
+&lt;h1&gt; Seu título H1 &lt;/h1&gt;
+&lt;h2&gt; Seu título H2 &lt;/h2&gt;
+&lt;h3&gt; Seu título H3 &lt;/h3&gt;
+&lt;h4&gt; Seu título H4 &lt;/h4&gt;
+&lt;h5&gt; Seu título H5 &lt;/h5&gt;
+&lt;h6&gt; Seu título H6 &lt;/h6&gt;
 	</code>
 </pre>
 
@@ -74,17 +74,22 @@ Em HTML, os títulos são categorizados de h1 a h6. O h1 representa o título de
 <details>
 <summary>Paragrafo - &lt;p&gt; &lt;/p&gt; </summary>
 
-```html
-<p>Meu parágrafo, texto que você desejar...</p>
-```
+<pre>
+	<code>
+&lt;p&gt; Meu parágrafo, texto que você desejar... &lt;/p&gt;
+	</code>
+</pre>
+
 </details>
 
 <details>
 <summary>Negrito - &lt;b&gt; &lt;/b&gt; </summary>
 
-```html
-<p> Seu texto em <b>negrito</b> ou <strong>Negrito<strong> </p>
-```
+<pre>
+	<code>
+&lt;p&gt; Seu texto em &lt;b&gt;negrito&lt;/b&gt; ou &lt;strong&gt;Negrito&lt;strong&gt; &lt;p&gt;
+	</code>
+</pre>
 
 </details>
 
@@ -92,8 +97,11 @@ Em HTML, os títulos são categorizados de h1 a h6. O h1 representa o título de
 <details>
 <summary>Itálico  - &lt;i&gt; &lt;/i&gt; </summary>
 
-```
-<p> Esse é o meu <i>texto em itálico</i> </p>
-```
+
+<pre>
+	<code>
+&lt;p&gt; Esse é o meu &lt;i&gt;texto em itálico&lt;/i&gt; &lt;p&gt;
+	</code>
+</pre>
 
 </details>
