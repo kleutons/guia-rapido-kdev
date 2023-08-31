@@ -386,19 +386,6 @@ Geralmente é usado em um formulário para coletar entradas do usuário, como co
 </details>
 
 <details>
-<summary>Hiperlink - &lt;a&gt;&lt;/a&gt;</summary>
-Define um hiperlink, que é usado para vincular de uma página a outra. O atributo mais importante do <code>&lt;a&lt;</code> elemento é o href atributo, que indica o destino do link.<br>
-Atributos: target='_blank' >> abre em uma nova página
-<pre>
-	<code>	
-&lt;a href="https://www.google.com"&gt;
-	Clique aqui e vá para o Google
-&lt;/a&gt;
-	</code>
-</pre>
-</details>
-
-<details>
 <summary>Lista suspensa Select - &lt;select&gt;&lt;/select&gt;</summary>
 Essa tag é usada para criar uma lista suspensa, muito usado em formulários.
 <pre>
@@ -412,6 +399,19 @@ Essa tag é usada para criar uma lista suspensa, muito usado em formulários.
 		&lt;option value="porsche"&gt;Porsche&lt;/select&gt;
 	&lt;/select&gt;
 &lt;/form&gt;
+	</code>
+</pre>
+</details>
+
+<details>
+<summary>Hiperlink - &lt;a&gt;&lt;/a&gt;</summary>
+Define um hiperlink, que é usado para vincular de uma página a outra. O atributo mais importante do <code>&lt;a&gt;</code> elemento é o href atributo, que indica o destino do link.<br>
+Atributos: target='_blank' >> abre em uma nova página
+<pre>
+	<code>	
+&lt;a href="https://www.google.com"&gt;
+	Clique aqui e vá para o Google
+&lt;/a&gt;
 	</code>
 </pre>
 </details>
