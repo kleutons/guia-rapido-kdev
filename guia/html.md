@@ -52,7 +52,7 @@ TAG´s são como etiquetas. Elas representam os trechos de código que auxiliam 
 ## Principais TAG's HTML (clique na seta para abri)
 
 
-<details> <br> <br>
+<details>  <br>
 <summary>Títulos - h1 até o h6</summary>
 
 Em HTML, os títulos são categorizados de h1 a h6. O h1 representa o título de maior relevância na página, enquanto o h6 é atribuído aos títulos de menor importância.
@@ -69,9 +69,9 @@ Em HTML, os títulos são categorizados de h1 a h6. O h1 representa o título de
 </pre>
 
 
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Paragrafo - &lt;p&gt; &lt;/p&gt; </summary>
 
 <pre>
@@ -80,9 +80,9 @@ Em HTML, os títulos são categorizados de h1 a h6. O h1 representa o título de
 	</code>
 </pre>
 
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Negrito - &lt;b&gt; &lt;/b&gt; </summary>
 
 <pre>
@@ -91,10 +91,10 @@ Em HTML, os títulos são categorizados de h1 a h6. O h1 representa o título de
 	</code>
 </pre>
 
- <br> <br> </details>
+  <br> </details>
 
 
-<details> <br> <br>
+<details>  <br>
 <summary>Itálico  - &lt;i&gt; &lt;/i&gt; </summary>
 
 
@@ -104,10 +104,10 @@ Em HTML, os títulos são categorizados de h1 a h6. O h1 representa o título de
 	</code>
 </pre>
 
- <br> <br> </details>
+  <br> </details>
 
 
-<details> <br> <br>
+<details>  <br>
 <summary>Título do site  - &lt;title&gt; &lt;/title&gt; </summary>
 
 
@@ -117,10 +117,10 @@ Em HTML, os títulos são categorizados de h1 a h6. O h1 representa o título de
 	</code>
 </pre>
 
- <br> <br> </details>
+  <br> </details>
 
 
-<details> <br> <br>
+<details>  <br>
 <summary>Cabeçalho - &lt;header&gt; &lt;/header&gt; </summary>
 Essa tag define um cabeçalho. Ou seja, tudo que estiver dentro dessa tag <code>&lt;header&gt;</code> faz parte de um cabeçalho e pode ser usado dentro de outras sessões. Também pode conter outros elementos dentro da tag, como uma logo, um formulário de pesquisa, e outros.
 
@@ -132,9 +132,9 @@ Essa tag define um cabeçalho. Ou seja, tudo que estiver dentro dessa tag <code>
 	</code>
 </pre>
 
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Conteúdo Principal  - &lt;main&gt; &lt;/main&gt; </summary>
 Essa tag representa o conteúdo principal do seu corpo, ou seja, o conteúdo principal do seu código. 
 <pre>
@@ -147,10 +147,10 @@ Essa tag representa o conteúdo principal do seu corpo, ou seja, o conteúdo pri
 &lt;/main&gt;
 	</code>
 </pre>
- <br> <br> </details>
+  <br> </details>
 
 
-<details> <br> <br>
+<details>  <br>
 <summary>Rodapé - &lt;footer&gt; &lt;/footer&gt; </summary>
 Essas tags definem um rodapé para a página, geralmente utilizadas no final da página; 
 <pre>
@@ -160,9 +160,9 @@ Essas tags definem um rodapé para a página, geralmente utilizadas no final da 
 &lt;/footer&gt;
 	</code>
 </pre>
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Sessões da página - &lt;section&gt; &lt;/section&gt; </summary>
 Essa tag define uma sessão para sua página.
 <pre>
@@ -173,9 +173,9 @@ Essa tag define uma sessão para sua página.
 &lt;/section&gt;
 	</code>
 </pre>
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Artigos - &lt;article&gt; &lt;/article&gt; </summary>
 Essa tag define um artigo da sua página. Ela é utilizada para separar o conteúdo da sua página. É mais utilizada para criação de blogs, um artigo de revista ou jornal, página de conteúdos e etc.
 <pre>
@@ -193,9 +193,9 @@ Essa tag define um artigo da sua página. Ela é utilizada para separar o conte�
 	...
 	</code>
 </pre>
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Conteúdo  - &lt;aside&gt; &lt;/aside&gt; </summary>
 A <code>&lt;aside&gt;</code> tag define algum conteúdo além do conteúdo em que é colocada. O conteúdo à parte deve estar indiretamente relacionado ao conteúdo principal.
 <pre>
@@ -207,9 +207,9 @@ A <code>&lt;aside&gt;</code> tag define algum conteúdo além do conteúdo em qu
 &lt;/aside&gt;
 	</code>
 </pre>
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Navegação - &lt;nav&gt; &lt;/nav&gt; </summary>
 Essa tag define um conteúdo de navegação. Por isso, é muito utilizado em conjunto com listas e na criação de menus. Ou seja, uma seção com links de navegação.
 <pre>
@@ -223,9 +223,9 @@ Essa tag define um conteúdo de navegação. Por isso, é muito utilizado em con
 &lt;/nav&gt;
 	</code>
 </pre>
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Divisão da página  - &lt;div&gt; &lt;/div&gt; </summary>
 Define uma divisão da página. Desta forma, funciona como um container para conteúdo da página. Uma vez que não possui um valor semântico, é muito utilizado para organizar melhor o conteúdo. 
 <pre>
@@ -238,9 +238,9 @@ Define uma divisão da página. Desta forma, funciona como um container para con
 	...
 	</code>
 </pre>
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Quebra de linha - &lt;br&gt; ou &lt;br /&gt; </summary>
 Essa tag não necessita de fechamento. Sua função é a quebra de linha.
 <pre>
@@ -250,9 +250,9 @@ Essa tag não necessita de fechamento. Sua função é a quebra de linha.
 &lt;p&gt;Terceiro texto &lt;/p&gt; &lt;br&gt;
 	</code>
 </pre>
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Imagem - &lt;img&gt;</summary>
 Tag para colocar imagem no seu código, esse tag não necessita de fechamento. 
 <pre>
@@ -261,9 +261,9 @@ Tag para colocar imagem no seu código, esse tag não necessita de fechamento.
 &lt;img src="endereço-sua-foto.jpg" alt="descrição para a foto" &gt;
 	</code>
 </pre>
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Vídeo  - &lt;video&gt;</summary>
 É utilizado para incorporar conteúdo de vídeo em um documento HTML. Suporta os sequintes atributos: autoplay, controls, loop, poster, preload, src
 <pre>
@@ -276,10 +276,10 @@ Seu navegador não suporta a tag de vídeo.
 &lt;/video&gt;
 	</code>
 </pre>
- <br> <br> </details>
+  <br> </details>
 
 
-<details> <br> <br>
+<details>  <br>
 <summary>Áudio  - &lt;audio&gt;</summary>
 É utilizado para incorporar conteúdo de vídeo em um documento HTML. Suporta os sequintes atributos: autoplay, controls, loop, muted, preload, src
 <pre>
@@ -292,9 +292,9 @@ Seu navegador não suporta a tag de audio.
 &lt;/video&gt;
 	</code>
 </pre>
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Incorporando outra página HTML na página atual - &lt;iframe&gt;</summary>
 A <code>&lt;iframe&gt;</code> tag especifica um quadro embutido. Um quadro embutido é usado para incorporar outro documento (site) no documento HTML atual.
 <pre>
@@ -304,9 +304,9 @@ A <code>&lt;iframe&gt;</code> tag especifica um quadro embutido. Um quadro embut
 &lt;/iframe &gt;
 	</code>
 </pre>
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Lista Ordenada - &lt;ol&gt;</summary>
 Representa uma lista de itens ordenados, ordenadas que podem ser numéricas ou alfabéticas.
 <pre>
@@ -318,9 +318,9 @@ Representa uma lista de itens ordenados, ordenadas que podem ser numéricas ou a
 &lt;/ol &gt;
 	</code>
 </pre>
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Lista Não Ordenada - &lt;ul&gt;</summary>
 Representa uma lista de itens não ordenados.
 <pre>
@@ -332,9 +332,9 @@ Representa uma lista de itens não ordenados.
 &lt;/ul &gt;
 	</code>
 </pre>
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Campo para dados em Formulários - &lt;Input type="text"&gt;</summary>
 Campo onde você pode inserir dados. 
 <pre>
@@ -368,9 +368,9 @@ Lista dos Tipos:
 - reset
 - search
 - submit
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Área de texto - &lt;textarea&gt;</summary>
 Geralmente é usado em um formulário para coletar entradas do usuário, como comentários ou revisões.
 <pre>
@@ -383,9 +383,9 @@ Geralmente é usado em um formulário para coletar entradas do usuário, como co
 &lt;/form&gt;
 	</code>
 </pre>
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Lista suspensa Select - &lt;select&gt;&lt;/select&gt;</summary>
 Essa tag é usada para criar uma lista suspensa, muito usado em formulários.
 <pre>
@@ -401,9 +401,9 @@ Essa tag é usada para criar uma lista suspensa, muito usado em formulários.
 &lt;/form&gt;
 	</code>
 </pre>
- <br> <br> </details>
+  <br> </details>
 
-<details> <br> <br>
+<details>  <br>
 <summary>Hiperlink - &lt;a&gt;&lt;/a&gt;</summary>
 Define um hiperlink, que é usado para vincular de uma página a outra. O atributo mais importante do <code>&lt;a&gt;</code> elemento é o href atributo, que indica o destino do link.<br>
 Atributos: target='_blank' >> abre em uma nova página
@@ -414,4 +414,4 @@ Atributos: target='_blank' >> abre em uma nova página
 &lt;/a&gt;
 	</code>
 </pre>
- <br> <br> </details>
+  <br> </details>
