@@ -51,21 +51,18 @@ TAG´s são como etiquetas. Elas representam os trechos de código que auxiliam 
 
 ## Principais TAG's HTML (clique na seta para abri)
 
+
 <details>
 <summary>Títulos - h1 até o h6</summary>
 
-Em HTML, os títulos são categorizados de h1 a h6. O h1 representa o título de maior relevância na página, enquanto o h6 é atribuído aos títulos de menor importância.
+	Em HTML, os títulos são categorizados de h1 a h6. O h1 representa o título de maior relevância na página, enquanto o h6 é atribuído aos títulos de menor importância.
 
-<pre>
-	<code>
-		<h1> Seu título H1 </h1>
-		<h2> Seu título H2 </h2>
-		<h3> Seu título H3 </h3>
-		<h4> Seu título H4 </h4>
-		<h5> Seu título H5 </h5>
-		<h6> Seu título H6 </h6>
-	</code>
-</pre>
+			<h1> Seu título H1 </h1>
+			<h2> Seu título H2 </h2>
+			<h3> Seu título H3 </h3>
+			<h4> Seu título H4 </h4>
+			<h5> Seu título H5 </h5>
+			<h6> Seu título H6 </h6>
 
 
 </details>
